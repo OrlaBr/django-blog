@@ -2,4 +2,6 @@
 
 # Work in Progress
 
-Blog mini-project written using Django, Travis, Heroku
+Blog mini-project written using Django
+
+[![Build Status](https://travis-ci.com/OrlaBr/django-blog.svg?branch=master)](https://travis-ci.com/OrlaBr/django-blog)
